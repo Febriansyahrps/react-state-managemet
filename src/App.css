@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: darkblue;
+  color: white;
+  height: 75px;
+}
+.nav h3 {
+  margin: auto;
+}
+.nav p {
+  margin: auto;
+}
+.form {
+  display: inline;
+}
+.inputform {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.form input {
+  margin-inline: 10px;
+  padding: 10px;
+}
+.form p {
+  font-weight: bold;
+}
